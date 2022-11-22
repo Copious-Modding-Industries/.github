@@ -1,6 +1,15 @@
-# Copious Modding Industries
-We are a group of modders who make mods and resources for other modders.
-Primarily, we focus on Noita *(and only have mods for it.)*
+
+<p align="center"> <img width=256 height=256 src="https://raw.githubusercontent.com/Copious-Modding-Industries/.github/main/profile/CMITR.png" alt="Logo"> </p>
+
+
+<h1 align="center">Copious Modding Industries</h1>
+
+<p align="center">
+    We are a group of modders who make mods and resources for other modders.
+</p>
+<p align="center">
+    Primarily, we focus on Noita <i>and only have mods for it.</i>
+</p>
 
 <p align="center">
     <a href="https://discord.gg/vdYK74WjCb">
