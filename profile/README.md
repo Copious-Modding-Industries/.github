@@ -18,5 +18,5 @@
     <a href="https://github.com/Copious-Modding-Industries">
         <img src="https://img.shields.io/github/followers/Copious-Modding-Industries?logo=github&logoColor=FFFFFF&style=flat-square"
             alt="GitHub followers"></a>
-    <img src="https://img.shields.io/maintenance/yes/2024?logo=GITHUB&logoColor=FFFFFF&style=flat-square" alt="Maintenance" >
+    <img src="https://img.shields.io/maintenance/yes/2025?logo=GITHUB&logoColor=FFFFFF&style=flat-square" alt="Maintenance" >
 </p>
